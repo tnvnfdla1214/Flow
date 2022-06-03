@@ -2,6 +2,8 @@
 
 https://kotlinworld.com/232
 
+https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda
+
 최근 코틀린 코루틴 라이브러리 (1.4.1)에서 Stable API로 배포된 StateFlow, SharedFlow가 무엇인지와 이들로 LiveData를 대체할 수 있는지를 알아보려고 합니다.
 ### 실 예시 프로젝트
 [User_StateFlow](https://github.com/tnvnfdla1214/User_StateFlow)
